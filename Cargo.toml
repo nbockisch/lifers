@@ -1,0 +1,10 @@
+[package]
+name = "lifers"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nathan Bockisch <nbockisch@protonmail.com>"]
+description = "Implementation of Conway's Game of Life in Rust and Ncurses"
+
+[dependencies]
+clap = { version = "3.2.6", features = ["derive"] }
+ncurses = "5.101.0"
