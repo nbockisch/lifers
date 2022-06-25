@@ -1,4 +1,5 @@
 # Lifers
+![Screenshot](screenshot.png)
 
 ## About
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implemented in [Rust](https://www.rust-lang.org/) with [Ncurses](https://invisible-island.net/ncurses/). Written for fun to
